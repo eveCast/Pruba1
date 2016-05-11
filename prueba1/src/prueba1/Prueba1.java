@@ -18,6 +18,8 @@ public class Prueba1 {
      */
     public static void main(String[] args) {
         JOptionPane.showMessageDialog(null, "hola,esto es una prueba");
+                JOptionPane.showMessageDialog(null, "hola");
+
     }
     
 }
